@@ -186,32 +186,3 @@ Found 17572 files belonging to 38 classes.
 
 
 These results demonstrate the effectiveness of the Smart Crop Recommendation System with Plant Disease Identification in assisting farmers with informed crop selection and disease management, thereby contributing to improved agricultural practices and crop yields.
-
-## 👨‍💻 CONTRIBUTERS
-- [Ravikant Diwakar](https://github.com/ravikant-diwakar)
-- [Amit Kumar](https://github.com/AMITKUMAR7970)
-- [Gaurav Kumar](https://github.com/Gauravkumar1741)
-- Aditya Chaudhary
-
-## 📧 Contact
-
-If you have any questions or feedback, feel free to reach out to us at [🔗Link](https://agrisens.netlify.app/form/).
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
