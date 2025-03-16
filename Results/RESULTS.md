@@ -1,4 +1,4 @@
-![agrisens netlify app_](https://github.com/user-attachments/assets/0755a367-d08f-4b0c-bb03-66a9717354b9)
+
 
 ![Preview2](https://github.com/user-attachments/assets/68f5eb1b-beb1-43ac-b9c9-b06b0c4ad21e)
 
